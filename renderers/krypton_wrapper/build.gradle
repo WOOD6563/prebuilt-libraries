@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "org.angelauramc.krypton_wrapper"
+    namespace = "com.wood.krypton_wrapper"
     compileSdkVersion 36
 
     defaultConfig {

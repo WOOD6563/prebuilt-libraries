@@ -28,7 +28,7 @@
 	shallow = true
 [submodule "renderers/krypton_wrapper/krypton_wrapper"]
 	path = renderers/krypton_wrapper/krypton_wrapper
-	url = https://github.com/BZLZHH/NG-GL4ES.git
+	url = https://github.com/TeamPojavLauncher/NG-GL4ES.git
 	shallow = true
 [submodule "imgui-java"]
 	path = misc/imgui-java/imgui-java
